@@ -1,0 +1,500 @@
+   24  git log
+   25  ls
+   26  ls -a
+   27  git init
+   28  git-basic-exercises
+   29  cd git-basic-exercises
+   30  git merge history
+   31  git add master
+   32  git og
+   33  git log
+   34  git checkout history
+   35  git merge history
+   36  git checkout master
+   37  git log
+   38  [200~
+   39  ~git remote add origin https://github.com/ayandamzolo/git-basic-exercises.git
+   40  git branch -M main
+   41  git push -u origin main
+   42  git remote add origin https://github.com/ayandamzolo/git-basic-exercises.git
+   43  git branch -M master
+   44  git push -u origin master
+   45  [200~$ git remote add origin https://github.com/ayandamzolo/git-basic-exercises.git
+   46  git branch -M master
+   47  git push -u origin master
+   48  ~$ git remote add origin https://github.com/ayandamzolo/git-basic-exercises.git
+   49  git branch -M history
+   50  git push -u origin history
+   51  git remote add origin https://github.com/ayandamzolo/git-basic-exercises.git
+   52  git branch -M milkshake-flavours
+   53  git push -u origin milkshake-flavours
+   54  cd ../
+   55  https://github.com/Umuzi-org/a-repo-to-clone
+   56  git clone https://github.com/Umuzi-org/a-repo-to-clone
+   57  cd a-repo-to-clone
+   58  git branch
+   59  git log
+   60  git brunch -a
+   61  git branch -a
+   62  git checkout a-brunch-with-a-few-commits
+   63  git checkout a-branch-with-a-few-commits
+   64  git remove -v
+   65  git remote -v
+   66  git log
+   67  cd git-basic-exercises
+   68  cd ../
+   69  ../..
+   70  cd ../..
+   71  cd git-basic-exercises
+   72  git checkout git-basic-exercises
+   73  git-basic-exercises
+   74  checkout git-basic-exercises
+   75  cd git-basic-exercises
+   76  git log
+   77  q
+   78  cd master
+   79  mkdir this-will-be-another-repo
+   80  cd this-will-be-another-repo
+   81  git init
+   82  touch README.md
+   83  git add README.md
+   84  git commit -m 
+   85  git commit -m "another repo"
+   86  cd git-basic-exercises
+   87  cd git-basic-exercises
+   88  git checkout master
+   89  git log
+   90  cd home
+   91  cd
+   92  mkdir this-will-be-another-repo
+   93  cd this-will-be-another-repo
+   94  get init
+   95  git init
+   96  touch README.md
+   97  git add README.md
+   98  git commit -m "Another repo"
+   99  cd git-basic-exercises
+  100  cd
+  101  git-basic-exercises
+  102  cd git-basic-exercises
+  103  git log
+  104  cd
+  105  cd git-basic-exercises
+  106  touch ignore-me.db
+  107  git status
+  108  nano .gitignore
+  109  git status
+  110  mkdir large-directory-that-should-be-local-only
+  111  cd large-directory-that-should-be-local-only
+  112  touch README.md
+  113  nano README.md
+  114  cd...
+  115  git cd...
+  116  cd..
+  117  cd.../
+  118  cd../
+  119  cd..
+  120  cd
+  121  git status
+  122  nano .gitignore
+  123  git status
+  124  git add .gitignore
+  125  git commit -m "added .gitignore"
+  126  git push
+  127  git push all
+  128      git push --set-upstream all master
+  129  git push .gitignore
+  130      git push --set-upstream .gitignore master
+  131  cd
+  132  git status
+  133  git push this-will-be-another-repo
+  134  cd git-basic-exercises
+  135  cd ignore-me.db
+  136  cd home
+  137  cd ..
+  138  touch ignore-me.db
+  139  git status
+  140  nano .gitignore
+  141  nano .gitignore
+  142  touch .gitignore
+  143  nano .gitignore
+  144  git status
+  145  mkdir large-directory-that-should-be-local-only
+  146  cd large-directory-that-should-be-local-only
+  147  touch readme.md
+  148  nano readme.md
+  149  cd ..
+  150  git status
+  151  nano .gitignore
+  152  git status
+  153  git add .gitignore
+  154  git commit -m "added .gitignore"
+  155  git push
+  156  git push .gitignore
+  157  git push -u .gitignore
+  158  git push --set-upstream .gitignore master
+  159  git clone https://github.com/Umuzi-org/a-repo-to-clone
+  160  cd a-repo-to-clone
+  161  git branch
+  162  cd
+  163  cd a-repo-to-clone
+  164  checkout .gitignore
+  165  git checkout a-branch-with-a-few-commits
+  166  git checkout .gitignore
+  167  git remote -v
+  168  cd..
+  169  cd ..
+  170  .gitignore
+  171  cd .gitignore
+  172  nano .gitignore
+  173  git remote -v
+  174  git push .gitignore
+  175  git add .gitignore
+  176  git commit -m "added .gitignore"
+  177  git push origin main
+  178  git push origin master
+  179  gitt push .gitignore master
+  180  git push .gitignore master
+  181  git remote -v
+  182  cd a-repo-to-clone
+  183  git remote -v
+  184  git push .gitignore master
+  185  git push .gitignore
+  186  git push .gotignoree a-repo-to-clone
+  187  git pull .gitignore
+  188  cat .gitignoer
+  189  cat .gitignorre
+  190  cat .gitignore
+  191  cf..
+  192  cd ..
+  193  cat .gitignore
+  194  git remote set-url origin https://github.com/Umuzi-org/a-repo-to-clone
+  195  https://github.com/Umuzi-org/a-repo-to-clone
+  196  git clone https://github.com/Umuzi-org/a-repo-to-clone
+  197  git branch gitignore
+  198  cd gitignore
+  199  checkout gitignore
+  200  git checkout gitignore
+  201  touch ignore-me.db
+  202  git status
+  203  nano .gitignore
+  204  git push .gitignore gitignore
+  205  cd ../
+  206  git clone [200~
+  207  user@DESKTOP-QITNLMO MINGW32 ~ (gitignore)
+  208  $ cd ../
+  209  user@DESKTOP-QITNLMO MINGW32 /c/Users
+  210  $ git clone
+  211  git clone git@github.com:Umuzi-org/Mitchelle-Mzolo-219-level-1-programming-katas-javascript.git
+  212  git clone https://github.com/Umuzi-org/Mitchelle-Mzolo-219-level-1-programming-katas-javascript
+  213  git gh repo clone Umuzi-org/Mitchelle-Mzolo-219-level-1-programming-katas-javascript
+  214  git clone https://github.com/Umuzi-org/Mitchelle-Mzolo-219-level-1-programming-katas-javascript.git
+  215  git repo clone Umuzi-org/Mitchelle-Mzolo-219-level-1-programming-katas-javascript
+  216  git clone Umuzi-org/Mitchelle-Mzolo-219-level-1-programming-katas-javascript
+  217  cd ..
+  218  cd ..
+  219  cd ..
+  220  git clone https://github.com/Umuzi-org/Mitchelle-Mzolo-219-level-1-programming-katas-javascript.git
+  221  gh repo clone Umuzi-org/Mitchelle-Mzolo-219-level-1-programming-katas-javascript
+  222  git repo clone Umuzi-org/Mitchelle-Mzolo-219-level-1-programming-katas-javascript
+  223  git remote clone Umuzi-org/Mitchelle-Mzolo-219-level-1-programming-katas-javascript
+  224  git clone https://github.com/Umuzi-org/Mitchelle-Mzolo-219-level-1-programming-katas-javascript.git
+  225  cd Mitchelle-Mzolo-219-level-1-programming-katas-javascript
+  226  git clone https://github.com/Umuzi-org/Mitchelle-Mzolo-219-level-1-programming-katas-javascript.git
+  227  cd ~/
+  228  cd ~/
+  229  mkdir workspace
+  230  cd workspace
+  231  git clone https://github.com/Umuzi-org/Mitchelle-Mzolo-219-level-1-programming-katas-javascript.git
+  232  git branch
+  233  cd Mitchelle-Mzolo-219-level-1-programming-katas-javascript
+  234  git branch
+  235  cd..
+  236  cd ..
+  237  cd Mitchelle-Mzolo-219-level-1-programming-katas-javascript
+  238  git status
+  239  checkout main
+  240  git checkout main
+  241  ls
+  242  git log
+  243  git branch task/1
+  244  git branch
+  245  cd task/1
+  246  git checkout task/1
+  247  nano task1.js
+  248  git branch task/2
+  249  git branch
+  250  checkout task/2
+  251  git checkout task/2
+  252  nano task2.js
+  253  git branch task/3
+  254  git checkout task/3
+  255  nano task3.js
+  256  git branch task/4
+  257  git checkout task/4
+  258  nano task4.js
+  259  git branch task/5
+  260  git checkout task/5
+  261  nano task5.js
+  262  git branch task/6
+  263  git checkout task/6
+  264  nano task6.js
+  265  git branch task/7
+  266  git checkout task/7
+  267  nano task7.js
+  268  cat task7
+  269  cat task7.js
+  270  git branch
+  271  ls
+  272  git checkout task/1
+  273  ls
+  274  git log
+  275  git status
+  276  git add task1.js
+  277  git commit -m "added task1"
+  278  git checkout task/2
+  279  git add task2.js
+  280  git commit -m "added task2"
+  281  git checkout task/3
+  282  git add task3.js
+  283  git commit -m "added task3"
+  284  git checkout task/4
+  285  git add task4.js
+  286  git commit -m "added task4"
+  287  git checkout task/5
+  288  git add task5.js
+  289  git commit -m "added task5"
+  290  git checkout task/6
+  291  git add task6.js
+  292  git commit -m "added task6"
+  293  git checkout task/7
+  294  git add task7.js
+  295  git commit -m "added task7"
+  296  ld
+  297  ls
+  298  git log
+  299  git checkout main
+  300  git pull
+  301  git checkout -b task/1
+  302  git checkout task/1
+  303  git pull
+  304  git branch -a
+  305  git branch --set-upstream-to=origin/task/1 task/1
+  306  git pull
+  307  cd  Mitchelle-Mzolo-219-level-1-programming-katas-javascript
+  308  cd ..
+  309  cd ..
+  310  ls
+  311  cd ..
+  312  ls
+  313  cd workspace
+  314  checkout workspace
+  315  git checkout workspace
+  316  git checkout Mitchelle-Mzolo-219-level-1-programming-katas-javascript
+  317  git log
+  318  log
+  319  git log
+  320  log
+  321  log
+  322  git log
+  323  cd..
+  324  cd ..
+  325  ls
+  326  cd ..
+  327  ls
+  328  cd ..
+  329  ls
+  330  log
+  331  git log
+  332  cd..
+  333  cd ..
+  334  cd ..
+  335  cd ..
+  336  mkdir level-1-coding-challanges
+  337  ls
+  338  cd 
+  339  mkdir level-1-coding-challanges
+  340  cd level-1-coding-challanges
+  341  ls -a
+  342  git clone https://github.com/Umuzi-org/Mitchelle-Mzolo-219-level-1-programming-katas-javascript
+  343  cd Mitchelle-
+  344  ls -a
+  345  cd Mitchelle-Mzolo-219-level-1-programming-katas-javascript
+  346  git branch -a
+  347  git branch
+  348  git checkout task/1
+  349  nano task1.js
+  350  git push -u origin task/1
+  351  git commit -m task1.js
+  352  git add task1.js
+  353  git commit -m "Added task1 file"
+  354  git push -u origin task/1
+  355  git push
+  356  git checkout task/2
+  357  nano task2.js
+  358  git add task2.js
+  359  git commit -m "Added task2 file"
+  360  git push -u origin task/2
+  361  git pull
+  362  git checkout task/3
+  363  nano task3.js
+  364  git add task3.js
+  365  git commit -m "Added task3 file"
+  366  git push -u origin task/3
+  367  git pull
+  368  git checkout task/4
+  369  nano task4.js
+  370  git add task3.js
+  371  git add task4.js
+  372  git commit -m "Added task4 file"
+  373  git push -u origin task/4
+  374  git pull
+  375  git checkout task/5
+  376  nano task5.js
+  377  git add task5.js
+  378  git commit -m "Added task5 file"
+  379  git push -u origin task/5
+  380  git pull
+  381  git checkout task/6
+  382  nano task6.js
+  383  git add task6.js
+  384  git commit -m "Added task6 file"
+  385  git push -u origin task/6
+  386  git pull
+  387  git checkout task/7
+  388  nano task7.js
+  389  git add task7.js
+  390  git commit -m "Added task7 file"
+  391  git push -u origin task/7
+  392  git pull
+  393  cd git-basic-exercises
+  394  cd ..
+  395  cd ..
+  396  cd git-basic-exercises
+  397  touch ignore-me.db
+  398  git status
+  399  git add .gitignore
+  400  git commit -m "gitignore file"
+  401  nano .gitignore
+  402  git add .gitignore
+  403  git commit -m "added .gitignore"
+  404  git push
+  405  cd ..
+  406  cd ..
+  407  ls
+  408  ls -a
+  409  cd this-will-be-another-repo
+  410  ls
+  411  cd ..
+  412  cd ..
+  413  ls -a
+  414  cd ..
+  415  ls -a
+  416  cd
+  417  ls -1
+  418  git rm  -r git-basic-exercises
+  419  git rm  -r git-basic-exercises
+  420  cd git-basic-exercises
+  421  git rm -r git-basic-exercises
+  422  ls 
+  423  git rm r README.md
+  424  git rm -r README.md
+  425  git commit -m "Deleted README.md"
+  426  git push origin master
+  427  ls -a
+  428  git rm -r history.txt
+  429  git commit -m "Deleted history.txt"
+  430  git push origin master
+  431  git rm -r large-directory-that-should-be-local-only
+  432  git rm -r .gitignore 
+  433  git commit -m "Deleted .gitignore"
+  434  git push origin master
+  435  git rm -r ignore-me.db 
+  436  ls -a
+  437  git rm -r ignore-me.b
+  438  git rm -r ignore-me.db
+  439  git rm -r milkshake-flavours
+  440  git commit -m "Deleted milkshake-flavours"
+  441  git push origin master
+  442  ls -a
+  443  cd git-basic-exercises
+  444  git init
+  445  ls-a
+  446  ls -a
+  447  git status
+  448  git add ignore-me.db
+  449  git rm -r ignore-me/db
+  450  git rm -r ignore-me.db
+  451  git rm -f ignore-me.db
+  452  git commit -m "Deleted ignore-me.db"
+  453  git add large-directory-that-should-be-local-only
+  454  git rm -r large-directory-that-should-be-local-only
+  455  git rm -f large-directory-that-should-be-local-only
+  456  git rm -r large-directory-that-should-be-local-only
+  457  git commit -m "large-directory-that-should-be-local-only"
+  458  git rm -r large-directory-that-should-be-local-only
+  459  git commit -m "deleted large-directory-that-should-be-local-only"
+  460  git push origin master
+  461  ls -a
+  462  git init
+  463  git status
+  464  touch README.md
+  465  ls -a
+  466  git status
+  467  git log
+  468  git add README.md
+  469  git commit -m "initial commit"
+  470  git log
+  471  nano README.md
+  472  cat README.md
+  473  git commit -m "seccond commit"
+  474  git add README.md
+  475  git commit -m "seccond commit"
+  476  nano README.md
+  477  git add README.md
+  478  git commit -m "third commit"
+  479  cat README.md
+  480  git log
+  481  git checkout 6584924cdbe35aa62c139b814cde0e74f51601e6
+  482  cat README.md
+  483  git checkout master
+  484  cat README.md
+  485  git branch milkshake-flavours
+  486  git branch *
+  487  git branch
+  488  checkout milkshake-flavours
+  489  cd milkshake-flavours
+  490  git checkout milkshake-flavours
+  491  ls -a
+  492  cd ..
+  493  git rm -f git-basic-exercises
+  494  ls
+  495  git add git-basic-exercises
+  496  git rm -f git-basic-exercises
+  497  git rm -r git-basic-exercises
+  498  git rm --cached git-basic-exercises
+  499  git rm --cached -fgit-basic-exercises
+  500  git rm --force git-basic-exercises
+  501  cd git-basic-exercises
+  502  git checkout master
+  503  git branch -d gitignore
+  504  git branch -d history
+  505  git branch
+  506  git branch -d milkshake-flavours
+  507  git push
+  508  git log
+  509  git branch
+  510  git branch milkshake-flavours
+  511  git checkout milkshake-flavours
+  512  git branch
+  513  nano milkshakes.md
+  514  git status
+  515  git add milkshakes.md
+  516  git commit -m "added initial flavours"
+  517  git log
+  518  git checkout master
+  519  git branch history
+  520  git checkout history
+  521  git log
+  522  git branch
+  523  history > history.txt
